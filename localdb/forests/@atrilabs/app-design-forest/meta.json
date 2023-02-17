@@ -1,0 +1,18 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "c3ba22df-b8ed-43f4-8ce7-985daa49b6d5": {
+      "name": "Rest_Website",
+      "id": "c3ba22df-b8ed-43f4-8ce7-985daa49b6d5",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root",
+    "bc242f17-46c3-4725-a1ca-96e10733ed7d": "c3ba22df-b8ed-43f4-8ce7-985daa49b6d5"
+  }
+}
