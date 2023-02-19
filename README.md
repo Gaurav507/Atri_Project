@@ -1,2 +1,2 @@
 # Atri_Project
-Restaurant Website cloning using Atri Framework
+Restaurant Website clone using Atri Framework
